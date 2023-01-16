@@ -1,0 +1,50 @@
+[
+  {
+    "NAMES": [
+      "Red", "red"
+    ],
+    "DESCRIPTION": "Deal damage. See #y\"Mini #yTutorial\" for more info."
+  },
+  {
+    "NAMES": [
+      "Green", "green"
+    ],
+    "DESCRIPTION": "Gain Block. See #y\"Mini #yTutorial\" for more info."
+  },
+  {
+    "NAMES": [
+      "Gold", "gold"
+    ],
+    "DESCRIPTION": "Reduce the cost of a card in hand. See #y\"Mini #yTutorial\" for more info."
+  },
+  {
+    "NAMES": [
+      "Default", "default"
+    ],
+    "DESCRIPTION": "When added to hand , set this to default color."
+  },
+  {
+    "NAMES": [
+      "Colored", "colored"
+    ],
+    "DESCRIPTION": "If colored , triggers the effect."
+  },
+  {
+    "NAMES": [
+      "Inspiration", "inspiration"
+    ],
+    "DESCRIPTION": "Increases the Evoke Effect of #rRed / #gGreen by X."
+  },
+  {
+    "NAMES": [
+      "SCE", "sce"
+    ],
+    "DESCRIPTION": "Strong Color Effect: Triggers Evoke Effect of this card and Strengthen Effect of other cards in hand."
+  },
+  {
+    "NAMES": [
+      "WCE", "wce"
+    ],
+    "DESCRIPTION": "Weak Color Effect: Only triggers Evoke Effect of this card."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "ColorfulMod:ColorfulCardsTutorials": {
+    "TEXT": [
+      "Add #ycolor to cards in your hand to trigger extra effect! NL Please read this tutorial #yCAREFULLY !",
+      " #rRed : NL #yEvoke #yEffect : Deal #b3 damage to a random enemy. NL #yStrengthen #yEffect : Increase damage by #b2 .",
+      " #gGreen : NL #yEvoke #yEffect : Gain #b2 Block. NL #yStrengthen #yEffect : Increase Block by #b1 .",
+      " #yGold : NL #yEvoke #yEffect : Reduce the cost of a random #yCOLORED card in hand by 1 until it leaves hand. NL #yStrengthen #yEffect : None.",
+      " Strong Color Effect ( #ySCE ) : If colored , triggers its #yEvoke #yEffect and triggers #yStrengthen #yEffect of other cards in hand.  NL Weak Color Effect ( #yWCE ) : Only triggers its #yEvoke #yEffect. NL NL When a colored card is played , trigger #ySCE and remove its color. NL When a colored card is colored again, trigger #yWCE and replace the color. NL At the end of turn , if a card is NOT #yretained , trigger #yWCE and remove its color. NL NL Only cards of this character can be colored.",
+      "Easy version: You #yDON'T need to play a card to trigger its color effect, because the effect will automatically trigger when its color is replaced or the turn has end. However, playing a colored card will trigger the strengthen effect of ALL other colored cards in your hand. NL Don't worry if you didn't fully understand, just go and play! NL If you have any question , right click the relic #yMini #yTutorial to see this tutorial in combat!"
+    ],
+    "LABEL": [
+      "Next",
+      "I got it!",
+      "Add color to your cards!",
+      "(Page: ",
+      ")"
+    ]
+  }
+}

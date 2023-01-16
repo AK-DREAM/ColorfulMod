@@ -1,0 +1,369 @@
+{
+  "ColorfulMod:RedCard": {
+    "NAME": "红色",
+    "DESCRIPTION": " NL 红色 : 对随机一个敌人造成 !ColorfulMod:Co! 点伤害。"
+  },
+  "ColorfulMod:GreenCard": {
+    "NAME": "绿色",
+    "DESCRIPTION": " NL 绿色 : 获得 !ColorfulMod:Co! 点 格挡 。"
+  },
+  "ColorfulMod:GoldCard": {
+    "NAME": "金色",
+    "DESCRIPTION": " NL 金色 : 使随机一张有颜色手牌离开手牌前耗能减1。"
+  },
+  "ColorfulMod:Strike_Col": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "ColorfulMod:Defend_Col": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "ColorfulMod:Ignite": {
+    "NAME": "点燃",
+    "DESCRIPTION": "将 2 张随机手牌变为 红色 。",
+    "UPGRADE_DESCRIPTION": "选择 2 张手牌变为 红色 。"
+  },
+  "ColorfulMod:Flare": {
+    "NAME": "火焰",
+    "DESCRIPTION": " 默认 : 红色 。造成 !D! 点伤害。"
+  },
+  "ColorfulMod:Charge": {
+    "NAME": "充能",
+    "DESCRIPTION": "抽 3 张牌 , 将抽到的前 !M! 张牌变为绿色。"
+  },
+  "ColorfulMod:GoldenRare": {
+    "NAME": "金色传说",
+    "DESCRIPTION": " 默认 : 金色 。对所有敌人造成 !D! 点伤害。优先作为金色牌主动效果的目标。"
+  },
+  "ColorfulMod:Parallel": {
+    "NAME": "并联",
+    "DESCRIPTION": "选择 !M! 张手牌变为 金色 。"
+  },
+  "ColorfulMod:Inspire": {
+    "NAME": "启发",
+    "DESCRIPTION": "获得 !M! 点 灵感 。"
+  },
+  "ColorfulMod:Empty": {
+    "NAME": "白卡",
+    "DESCRIPTION": " 消耗 。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": " 消耗 。 NL 保留 。"
+  },
+  "ColorfulMod:DarkGreenDefend": {
+    "NAME": "暗绿防御",
+    "DESCRIPTION": " 获得 !B! 点 格挡 。 NL 将2张 绿色 的 *白卡 加入手牌。"
+  },
+  "ColorfulMod:Aggressive": {
+    "NAME": "斗志昂扬",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张随机手牌变为 红色 。返回你的抽牌堆。"
+  },
+  "ColorfulMod:GoldenSnitch": {
+    "NAME": "金色飞贼",
+    "DESCRIPTION": " 默认 : 金色 。抽 !M! 张牌。"
+  },
+  "ColorfulMod:Recharge": {
+    "NAME": "养精蓄锐",
+    "DESCRIPTION": "获得 !M! 点 力量 。本回合 保留 你的手牌。结束你的回合。 NL 消耗 。"
+  },
+  "ColorfulMod:Rainbow": {
+    "NAME": "彩虹",
+    "DESCRIPTION": "将你的所有手牌变为随机颜色。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将你的所有手牌变为随机颜色。"
+  },
+  "ColorfulMod:GoldMagnet": {
+    "NAME": "吸金磁",
+    "DESCRIPTION": "从弃牌堆选择1张卡加入手牌 , 并将其变为金色。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "从弃牌堆选择1张卡加入手牌 , 并将其变为金色。"
+  },
+  "ColorfulMod:BatchProduct": {
+    "NAME": "批量化",
+    "DESCRIPTION": "每回合开始时 , 分别将1张 红色 和 绿色 的 *白卡 加入手牌。",
+    "UPGRADE_DESCRIPTION": "每回合开始时 , 分别将1张 红色 和 绿色 的 *白卡 加入手牌。 NL 打出时也将这两张牌加入手牌。"
+  },
+  "ColorfulMod:Shine": {
+    "NAME": "金光闪闪",
+    "DESCRIPTION": "每回合开始时 , 选择 1 张牌变为 金色 。",
+    "UPGRADE_DESCRIPTION": " 默认 : 金色 。 NL 每回合开始时 , 选择 1 张牌变为 金色 。"
+  },
+  "ColorfulMod:WellPrepared": {
+    "NAME": "蓄势待发",
+    "DESCRIPTION": "下一回合开始时 , 额外抽 !M! 张牌并将它们变为 红色 。"
+  },
+  "ColorfulMod:Torch": {
+    "NAME": "火把",
+    "DESCRIPTION": "造成 !D! 点伤害。若颜色为 红色 , 再造成 !D! 点伤害。"
+  },
+  "ColorfulMod:Eruption": {
+    "NAME": "厚积爆发",
+    "DESCRIPTION": " 保留 。 默认 : 红色 。 NL 触发此牌的 强激发 效果 X 次。",
+    "UPGRADE_DESCRIPTION": " 保留 。 默认 : 红色 。 NL 触发此牌的 强激发 效果 X+1 次。"
+  },
+  "ColorfulMod:FireSpread": {
+    "NAME": "烈火燎原",
+    "DESCRIPTION": " 红色 牌的颜色主动效果攻击所有敌人。 NL 将手牌中所有攻击牌变为 红色 。",
+    "UPGRADE_DESCRIPTION": " 红色 牌的颜色主动效果攻击所有敌人。 NL 将手牌中所有牌变为 红色 。"
+  },
+  "ColorfulMod:Repeat": {
+    "NAME": "重复",
+    "DESCRIPTION": " 默认 : 红色 。 NL 对所有敌人造成 !D! 点伤害 2 次。 NL 打出时触发 2 次 强激发 效果。"
+  },
+  "ColorfulMod:Enlarge": {
+    "NAME": "巨大化",
+    "DESCRIPTION": "你每打出 1 张 红色 牌 , 获得 1 点 力量 。"
+  },
+  "ColorfulMod:CrimsonStrike": {
+    "NAME": "绯红打击",
+    "DESCRIPTION": "造成 !D! 点伤害。将 2 张 红色 的 *白卡 加入手牌。"
+  },
+  "ColorfulMod:Improvisation": {
+    "NAME": "即兴发挥",
+    "DESCRIPTION": "选择一项: 将 !M! 张随机颜色的 *白卡 加入手牌。 NL 或: 选择 !M! 张手牌变为随机颜色。"
+  },
+  "ColorfulMod:Improvisation1": {
+    "NAME": "选择A",
+    "DESCRIPTION": "将 !M! 张随机颜色的 *白卡 加入手牌。"
+  },
+  "ColorfulMod:Improvisation2": {
+    "NAME": "选择B",
+    "DESCRIPTION": "选择 !M! 张手牌变为随机颜色。"
+  },
+  "ColorfulMod:Extraordinary": {
+    "NAME": "不同凡响",
+    "DESCRIPTION": "造成 !D! 点伤害。若打出时没有颜色 , 本场战斗耗能加 1 。"
+  },
+  "ColorfulMod:Continuous": {
+    "NAME": "连贯",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 色彩 : 获得 [E] 并抽 1 张牌 。"
+  },
+  "ColorfulMod:Diverse": {
+    "NAME": "包罗万象",
+    "DESCRIPTION": "造成 !D! 点伤害。手牌中每有一种不同颜色的牌 , 抽 1 张牌 。"
+  },
+  "ColorfulMod:FirmBasis": {
+    "NAME": "坚实基础",
+    "DESCRIPTION": "将 !M! 张随机手牌变为 绿色 。",
+    "UPGRADE_DESCRIPTION": "选择 !M! 张手牌变为 绿色 。"
+  },
+  "ColorfulMod:Firework": {
+    "NAME": "烟花",
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 色彩 : 回到手牌。"
+  },
+  "ColorfulMod:SolarEnergy": {
+    "NAME": "太阳能",
+    "DESCRIPTION": "获得等同于手牌中(不含此牌)金色牌数量的 [E] 。"
+  },
+  "ColorfulMod:ToolKit": {
+    "NAME": "工具包",
+    "DESCRIPTION": "在你的回合结束时 , 保留 最多 !M! 张牌。"
+  },
+  "ColorfulMod:Uniform": {
+    "NAME": "清一色",
+    "DESCRIPTION": "选择一张有颜色的手牌 , 将所有手牌变为该颜色。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择一张有颜色的手牌 , 将所有手牌变为该颜色。"
+  },
+  "ColorfulMod:ChainReaction": {
+    "NAME": "连锁反应",
+    "DESCRIPTION": "场上每有一个敌人 , 对随机敌人造成 !D! 点伤害并触发一次 强激发 效果。"
+  },
+  "ColorfulMod:Sell": {
+    "NAME": "售卖",
+    "DESCRIPTION": "消耗一张手牌 , 若颜色为红/绿色则获得 5 *金币 , 若颜色为金色则获得 10 *金币 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "消耗一张手牌 , 若颜色为红/绿色则获得 7 *金币 , 若颜色为金色则获得 14 *金币 。 NL 消耗 。"
+  },
+  "ColorfulMod:Refraction": {
+    "NAME": "折射",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 色彩 : 抽 2 张牌。"
+  },
+  "ColorfulMod:GoldAccelerator": {
+    "NAME": "黄金加速",
+    "DESCRIPTION": "每回合前 !M! 次打出 0 费牌时 , 抽 1 张牌。"
+  },
+  "ColorfulMod:Imagination": {
+    "NAME": "浮想联翩",
+    "DESCRIPTION": "回合结束时 , 耗费 [E] 来获得 !M! 点 灵感 。",
+    "UPGRADE_DESCRIPTION": "回合结束时 , 耗费 [E] 来获得 !M! 点 灵感 。 NL 打出时立即获得 2 点 灵感 。"
+  },
+  "ColorfulMod:Glittering": {
+    "NAME": "流光溢彩",
+    "DESCRIPTION": "当一张有颜色的卡被 保留 时 , 额外触发它的 弱激发 效果1次。",
+    "UPGRADE_DESCRIPTION": "当一张有颜色的卡被 保留 时 , 额外触发它的 弱激发 效果1次。 NL 本回合 保留 所有手牌。"
+  },
+  "ColorfulMod:Selection": {
+    "NAME": "精挑细选",
+    "DESCRIPTION": " 预见 抽牌堆的所有牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 预见 抽牌堆的所有牌。抽 !M! 张牌。 NL 消耗 。"
+  },
+  "ColorfulMod:MetallizePaint": {
+    "NAME": "金属化涂料",
+    "DESCRIPTION": "本回合你受到的攻击伤害减半。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 本回合你受到的攻击伤害减半。"
+  },
+  "ColorfulMod:SharpMind": {
+    "NAME": "灵光一闪",
+    "DESCRIPTION": "抽 1 张牌。若抽到的是 技能 牌 , 将其变为 绿色 。",
+    "UPGRADE_DESCRIPTION": "抽 1 张牌。将其变为 绿色 。"
+  },
+  "ColorfulMod:Overheated": {
+    "NAME": "过热",
+    "DESCRIPTION": "造成 !D! 点伤害 3 次。 NL 色彩 : 获得 !M! 点 力量 。"
+  },
+  "ColorfulMod:GoldenCharge": {
+    "NAME": "黄金充能",
+    "DESCRIPTION": "默认 : 金色 。 NL 仅当此牌为 0 费时才能打出。对所有敌人造成 !D! 点伤害。触发 2 次 强激发 效果。",
+    "EXTENDED_DESCRIPTION": [
+      "此牌的耗能不为 0 费!"
+    ]
+  },
+  "ColorfulMod:PaintBrush": {
+    "NAME": "画笔",
+    "DESCRIPTION": " 不能被打出 。 NL 此牌在手牌中时 , 获得 !M! 点 灵感 。"
+  },
+  "ColorfulMod:PureStrike": {
+    "NAME": "纯粹打击",
+    "DESCRIPTION": "造成 !D! 点伤害 3 次。此牌不能被上色。"
+  },
+  "ColorfulMod:DirectWallop": {
+    "NAME": "开门见山",
+    "DESCRIPTION": " 固有 。 造成 !D! 点伤害。"
+  },
+  "ColorfulMod:GoldenWarhammer": {
+    "NAME": "黄金战锤",
+    "DESCRIPTION": "默认 : 金色 。 NL 造成 !D! 点伤害。此牌耗能每减少1就多造成 !M! 伤害。"
+  },
+  "ColorfulMod:UpgradePaint": {
+    "NAME": "升级涂料",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 色彩 : 升级所有手牌。"
+  },
+  "ColorfulMod:Rune": {
+    "NAME": "符文",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 色彩 : 给予 !M! 层 易伤 和 虚弱 。"
+  },
+  "ColorfulMod:LightUp": {
+    "NAME": "点亮",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 选择 1 张牌变为 红色 , 若该牌已有颜色则获得 [E] 。"
+  },
+  "ColorfulMod:DeepDarkFantasy": {
+    "NAME": "深邃黑暗幻想",
+    "DESCRIPTION": "获得等同于你 灵感 的 力量 (最多 !M! 点), 然后再获得等同于你 力量 的 灵感 (最多 !M! 点)。 NL 消耗 。"
+  },
+  "ColorfulMod:Flash": {
+    "NAME": "闪光",
+    "DESCRIPTION": "选择 1 张牌变为 红色 。 NL 触发所有手牌的 弱激发 效果 1 次。 NL 消耗 。"
+  },
+  "ColorfulMod:Duplicate": {
+    "NAME": "复印",
+    "DESCRIPTION": "选择 1 张牌消耗 , 并将 !M! 张继承其颜色属性的 *白卡 加入手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择 1 张牌消耗 , 并将 !M! 张继承其颜色属性的 *白卡 加入手牌。"
+  },
+  "ColorfulMod:Fleeting": {
+    "NAME": "转瞬即逝",
+    "DESCRIPTION": "本回合获得 !M! 点临时 灵感 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 本回合获得 !M! 点临时 灵感 。 NL 消耗 。"
+  },
+  "ColorfulMod:GoldenStrike": {
+    "NAME": "黄金打击",
+    "DESCRIPTION": "造成 !D! 点伤害。你的牌组中每有一张稀有牌就多造成 !M! 伤害。若为 金色 , 造成双倍伤害。"
+  },
+  "ColorfulMod:ChromaticBeam": {
+    "NAME": "七彩射线",
+    "DESCRIPTION": " 默认 : 红色 。 NL 仅当你手牌中所有本角色的牌都有颜色时才能打出。 NL 造成 !D! 点伤害 !M! 次。",
+    "EXTENDED_DESCRIPTION": [
+      "手牌中存在没有颜色的牌!"
+    ]
+  },
+  "ColorfulMod:PaintSpray": {
+    "NAME": "颜料喷射",
+    "DESCRIPTION": "手牌中每有一张有颜色的牌 , 造成 !D! 点伤害 1 次。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (造成伤害 ",
+      " 次)",
+      " 次)"
+    ]
+  },
+  "ColorfulMod:Graffiti": {
+    "NAME": "信笔涂鸦",
+    "DESCRIPTION": "抽 !M! 张牌并将它们变为随机颜色。 NL 消耗 。"
+  },
+  "ColorfulMod:GoldenWhirl": {
+    "NAME": "黄金回旋",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。选择 !M! 张手牌变为 金色 。"
+  },
+  "ColorfulMod:Blinding": {
+    "NAME": "致盲",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 色彩 : 给予所有敌人 !M! 层 虚弱 。"
+  },
+  "ColorfulMod:AcidPaint": {
+    "NAME": "酸性涂料",
+    "DESCRIPTION": "给予 !M! 层 虚弱 , 使敌人失去 3 点 力量 。 NL 消耗 。"
+  },
+  "ColorfulMod:Encourage": {
+    "NAME": "鼓舞",
+    "DESCRIPTION": "造成 !D! 点伤害 , 将手牌中所有攻击牌变为 红色 。"
+  },
+  "ColorfulMod:RubyBlade": {
+    "NAME": "红石之刃",
+    "DESCRIPTION": " 默认 : 红色 。 保留 。 NL 造成 !D! 点伤害。 被 保留 时若为 红色 , 将基础伤害增加 红色 数值。"
+  },
+  "ColorfulMod:GoldenLaunch": {
+    "NAME": "黄金启动",
+    "DESCRIPTION": "抽 !M! 张牌并将它们变为 金色 。 NL 消耗 。"
+  },
+  "ColorfulMod:Copy": {
+    "NAME": "临摹",
+    "DESCRIPTION": "触发你本回合上一张打出的牌的效果。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 触发你本回合上一张打出的牌的效果。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (上一张牌是: ",
+      " )",
+      " NL 本回合未打出过牌。"
+    ]
+  },
+  "ColorfulMod:StimulatePotential": {
+    "NAME": "潜能激发",
+    "DESCRIPTION": " 默认 : 金色 。 NL 触发 强激发 效果 !M! 次 , 并将此数值增加 1 。"
+  },
+  "ColorfulMod:Plasticity": {
+    "NAME": "可塑性",
+    "DESCRIPTION": "当你打出 *白卡 时 , 额外触发 !M! 次 弱激发 效果。"
+  },
+  "ColorfulMod:Powerful": {
+    "NAME": "强大",
+    "DESCRIPTION": "获得 !M! 点临时 力量 。 NL 色彩 : 返回手牌。"
+  },
+  "ColorfulMod:RainbowStrike": {
+    "NAME": "彩虹打击",
+    "DESCRIPTION": "造成 !D! 点伤害。此牌每被添加1次颜色 , 伤害增加 !M! 。"
+  },
+  "ColorfulMod:Palette": {
+    "NAME": "调色盘",
+    "DESCRIPTION": " 保留 。 不能被打出 。 NL 此牌上的颜色主动效果数值为 2 倍 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 不能被打出 。 NL 此牌上的颜色主动效果数值为 3 倍。"
+  },
+  "ColorfulMod:GoldTouch": {
+    "NAME": "点石成金",
+    "DESCRIPTION": "将一张随机的名称带有\" *金色 \"或\" *黄金 \"的牌加入手牌 , 其本回合耗能为 0 。 消耗 。"
+  },
+  "ColorfulMod:GlowingGreen": {
+    "NAME": "荧光绿",
+    "DESCRIPTION": " 默认 : 绿色 。抽 !M! 张牌。 NL 打出时触发 2 次 强激发 效果。"
+  },
+  "ColorfulMod:MagicPaint": {
+    "NAME": "魔法涂料",
+    "DESCRIPTION": "你每打出1张有颜色的牌 , 对随机敌人造成 !M! 点伤害1次。 NL 此伤害受 力量 加成。"
+  },
+  "ColorfulMod:ColorX": {
+    "NAME": "颜色X",
+    "DESCRIPTION": "抽2X-1张牌，每抽到1张技能牌就获得 [E] 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽2X张牌，每抽到1张技能牌就获得 [E] 。 NL 消耗 。"
+  },
+  "ColorfulMod:ColorfulForm": {
+    "NAME": "缤纷形态",
+    "DESCRIPTION": "你每打出一张有颜色的牌 , 将随机一张没有颜色的手牌变为随机颜色。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": "你每打出一张有颜色的牌 , 将随机一张没有颜色的手牌变为随机颜色。"
+  },
+  "ColorfulMod:ColorfulForm2": {
+    "NAME": "缤纷形态",
+    "DESCRIPTION": "所有牌按类型获得 默认 颜色。(攻击: 红色 ; 技能: 绿色 ; 能力: 金色 ) NL 虚无 。",
+    "UPGRADE_DESCRIPTION": "所有牌按类型获得 默认 颜色。(攻击: 红色 ; 技能: 绿色 ; 能力: 金色 )"
+  }
+}

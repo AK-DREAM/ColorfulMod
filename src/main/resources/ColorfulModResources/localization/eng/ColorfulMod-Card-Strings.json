@@ -1,0 +1,369 @@
+{
+  "ColorfulMod:RedCard": {
+    "NAME": "Red",
+    "DESCRIPTION": " NL Red : Deal !ColorfulMod:Co! damage to a random enemy."
+  },
+  "ColorfulMod:GreenCard": {
+    "NAME": "Green",
+    "DESCRIPTION": " NL Green : Gain !ColorfulMod:Co! Block ."
+  },
+  "ColorfulMod:GoldCard": {
+    "NAME": "Gold",
+    "DESCRIPTION": " NL Gold : Reduce the cost of a random colored card by 1 until it leaves hand."
+  },
+  "ColorfulMod:Strike_Col": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "ColorfulMod:Defend_Col": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "ColorfulMod:Ignite": {
+    "NAME": "Ignite",
+    "DESCRIPTION": "Set 2 random cards in your hand to Red .",
+    "UPGRADE_DESCRIPTION": "Set 2 cards in your hand to Red ."
+  },
+  "ColorfulMod:Flare": {
+    "NAME": "Flare",
+    "DESCRIPTION": " Default : Red . Deal !D! damage."
+  },
+  "ColorfulMod:Charge": {
+    "NAME": "Charge",
+    "DESCRIPTION": " Draw 3 cards and set the first !M! card(s) to Green ."
+  },
+  "ColorfulMod:GoldenRare": {
+    "NAME": "Golden Rare",
+    "DESCRIPTION": " Default : Gold . Deal !D! damage to ALL enemies. Gold Evoke Effect triggers on this card first."
+  },
+  "ColorfulMod:Parallel": {
+    "NAME": "Parallel",
+    "DESCRIPTION": "Set !M! cards in your hand to Gold ."
+  },
+  "ColorfulMod:Inspire": {
+    "NAME": "Inspire",
+    "DESCRIPTION": "Gain !M! Inspiration ."
+  },
+  "ColorfulMod:Empty": {
+    "NAME": "Empty",
+    "DESCRIPTION": " Exhaust . NL Ethereal .",
+    "UPGRADE_DESCRIPTION": " Exhaust . NL Retain ."
+  },
+  "ColorfulMod:DarkGreenDefend": {
+    "NAME": "Dark Green Defend",
+    "DESCRIPTION": " Gain !B! Block. NL Add 2 Green *Empty to hand."
+  },
+  "ColorfulMod:Aggressive": {
+    "NAME": "Aggressive",
+    "DESCRIPTION": "Deal !D! damage. NL Set 1 random card in hand to Red . Return to your draw pile."
+  },
+  "ColorfulMod:GoldenSnitch": {
+    "NAME": "Golden Snitch",
+    "DESCRIPTION": " Default : Gold. Draw !M! card."
+  },
+  "ColorfulMod:Recharge": {
+    "NAME": "Recharge",
+    "DESCRIPTION": "Gain !M! Strength . Retain your hand this turn. End your turn. NL Exhaust."
+  },
+  "ColorfulMod:Rainbow": {
+    "NAME": "Rainbow",
+    "DESCRIPTION": "Set ALL cards in your hand to random color. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Set ALL cards in your hand to random color."
+  },
+  "ColorfulMod:GoldMagnet": {
+    "NAME": "Gold Magnet",
+    "DESCRIPTION": "Put a card from discard pile to your hand and set it to Gold . NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put a card from discard pile to your hand and set it to Gold ."
+  },
+  "ColorfulMod:BatchProduct": {
+    "NAME": "Batch Product",
+    "DESCRIPTION": "At start of turn , Add a Red *Empty and a Green *Empty to hand.",
+    "UPGRADE_DESCRIPTION": "At start of turn , Add a Red *Empty and a Green *Empty to hand. NL Also add these to hand when played."
+  },
+  "ColorfulMod:Shine": {
+    "NAME": "Shine",
+    "DESCRIPTION": "At start of turn , set 1 card in your hand to Gold.",
+    "UPGRADE_DESCRIPTION": " Default : Gold . NL At start of turn , set 1 card in your hand to Gold."
+  },
+  "ColorfulMod:WellPrepared": {
+    "NAME": "Well Prepared",
+    "DESCRIPTION": "At start of next turn , draw !M! extra card and set them to Red."
+  },
+  "ColorfulMod:Torch": {
+    "NAME": "Torch",
+    "DESCRIPTION": "Deal !D! damage. If this is Red, deal !D! damage again."
+  },
+  "ColorfulMod:Eruption": {
+    "NAME": "Eruption",
+    "DESCRIPTION": " Retain. Default : Red . NL Trigger SCE X times.",
+    "UPGRADE_DESCRIPTION": " Retain. Default : Red . NL Trigger SCE X+1 times."
+  },
+  "ColorfulMod:FireSpread": {
+    "NAME": "Fire Spread",
+    "DESCRIPTION": " Red Evoke Effect now damages ALL enemies. NL Set ALL Attack cards in hand to Red.",
+    "UPGRADE_DESCRIPTION": " Red Evoke Effect now damages ALL enemies. NL Set ALL cards in hand to Red."
+  },
+  "ColorfulMod:Repeat": {
+    "NAME": "Repeat",
+    "DESCRIPTION": " Default : Red . NL  Deal !D! damage to ALL enemies twice. NL Trigger SCE twice."
+  },
+  "ColorfulMod:Enlarge": {
+    "NAME": "Enlarge",
+    "DESCRIPTION": "Whenever you play a Red card , gain 1 Strength."
+  },
+  "ColorfulMod:CrimsonStrike": {
+    "NAME": "Crimson Strike",
+    "DESCRIPTION": "Deal !D! damage. Add 2 Red *Empty to hand."
+  },
+  "ColorfulMod:Improvisation": {
+    "NAME": "Improvisation",
+    "DESCRIPTION": "Choose one: Add !M! *Empty of random color to hand. NL Or: Choose !M! cards in hand and set them to random color."
+  },
+  "ColorfulMod:Improvisation1": {
+    "NAME": "Choice A",
+    "DESCRIPTION": "Add !M! *Empty of random color to hand."
+  },
+  "ColorfulMod:Improvisation2": {
+    "NAME": "Choice B",
+    "DESCRIPTION": "Choose !M! cards in hand and set them to random color."
+  },
+  "ColorfulMod:Extraordinary": {
+    "NAME": "Extraordinary",
+    "DESCRIPTION": "Deal !D! damage. If not colored when played , increase cost by 1 this combat."
+  },
+  "ColorfulMod:Continuous": {
+    "NAME": "Continuous",
+    "DESCRIPTION": "Deal !D! damage. NL Colored : Gain [E] and draw 1 card."
+  },
+  "ColorfulMod:Diverse": {
+    "NAME": "Diverse",
+    "DESCRIPTION": "Deal !D! damage. Draw 1 card for each unique color of card in your hand."
+  },
+  "ColorfulMod:FirmBasis": {
+    "NAME": "Firm Basis",
+    "DESCRIPTION": "Set 2 random cards in your hand to Green .",
+    "UPGRADE_DESCRIPTION": "Set 2 cards in your hand to Green ."
+  },
+  "ColorfulMod:Firework": {
+    "NAME": "Firework",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL Colored : Return to hand."
+  },
+  "ColorfulMod:SolarEnergy": {
+    "NAME": "Solar Energy",
+    "DESCRIPTION": "Gain [E] for every Gold card in your hand (not including this)."
+  },
+  "ColorfulMod:ToolKit": {
+    "NAME": "Tool Kit",
+    "DESCRIPTION": "At the end of turn , Retain up to !M! card(s)."
+  },
+  "ColorfulMod:Uniform": {
+    "NAME": "Uniform",
+    "DESCRIPTION": "Choose a colored card and set ALL cards in hand to that color. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose a colored card and set ALL cards in hand to that color."
+  },
+  "ColorfulMod:ChainReaction": {
+    "NAME": "Chain Reaction",
+    "DESCRIPTION": "For every enemy in combat , deal !D! damage to a random enemy and trigger SCE effect once."
+  },
+  "ColorfulMod:Sell": {
+    "NAME": "Sell",
+    "DESCRIPTION": "Exhaust a card in hand. Gain 5 *gold if it's Red / Green and gain 10 if it's Gold . NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Exhaust a card in hand. Gain 7 *gold if it's Red / Green and gain 14 if it's Gold . NL Exhaust."
+  },
+  "ColorfulMod:Refraction": {
+    "NAME": "Refraction",
+    "DESCRIPTION": "Gain !B! Block. NL Colored : Draw 2 cards."
+  },
+  "ColorfulMod:GoldAccelerator": {
+    "NAME": "Gold Accelerator",
+    "DESCRIPTION": "When you play a 0 cost card for the first !M! times every turn , draw 1 card."
+  },
+  "ColorfulMod:Imagination": {
+    "NAME": "Imagination",
+    "DESCRIPTION": "At the end of turn , cost [E] to gain !M! Inspiration .",
+    "UPGRADE_DESCRIPTION": "At the end of turn , cost [E] to gain !M! Inspiration . Immediately gain 2 Inspiration when played."
+  },
+  "ColorfulMod:Glittering": {
+    "NAME": "Glittering",
+    "DESCRIPTION": "When a colored card is Retained , trigger its WCE once.",
+    "UPGRADE_DESCRIPTION": "When a colored card is Retained , trigger its WCE once. NL Retain your hand this turn."
+  },
+  "ColorfulMod:Selection": {
+    "NAME": "Selection",
+    "DESCRIPTION": " Scry ALL cards in your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": " Scry ALL cards in your draw pile and draw !M! card. NL Exhaust."
+  },
+  "ColorfulMod:MetallizePaint": {
+    "NAME": "Metallize Paint",
+    "DESCRIPTION": "Reduce attack damage you take by half this turn.",
+    "UPGRADE_DESCRIPTION": " Retain. NL Reduce attack damage you take by half this turn."
+  },
+  "ColorfulMod:SharpMind": {
+    "NAME": "Sharp Mind",
+    "DESCRIPTION": "Draw 1 card. If it's a Skill card, set it to Green.",
+    "UPGRADE_DESCRIPTION": "Draw 1 card and set it to Green."
+  },
+  "ColorfulMod:Overheated": {
+    "NAME": "Overheated",
+    "DESCRIPTION": "Deal !D! damage 3 times. NL Colored : Gain !M! Strength."
+  },
+  "ColorfulMod:GoldenCharge": {
+    "NAME": "Golden Charge",
+    "DESCRIPTION": "Default : Gold. Can only be played if this costs 0. Deal !D! damage to ALL enemies. Trigger SCE 2 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Cost is not 0!"
+    ]
+  },
+  "ColorfulMod:PaintBrush": {
+    "NAME": "Paint Brush",
+    "DESCRIPTION": " Unplayable. NL When this is in your hand , gain !M! Inspiration ."
+  },
+  "ColorfulMod:PureStrike": {
+    "NAME": "Pure Strike",
+    "DESCRIPTION": "Deal !D! damage 3 times. Cannot be colored."
+  },
+  "ColorfulMod:DirectWallop": {
+    "NAME": "Direct Wallop",
+    "DESCRIPTION": " Innate . Deal !D! damage."
+  },
+  "ColorfulMod:GoldenWarhammer": {
+    "NAME": "Golden Warhammer",
+    "DESCRIPTION": " Default : Gold . NL Deal !D! damage. Deal !M! x (3-cost) extra damage."
+  },
+  "ColorfulMod:UpgradePaint": {
+    "NAME": "Upgrade Paint",
+    "DESCRIPTION": "Deal !D! damage. NL Colored : Upgrade ALL cards in hand."
+  },
+  "ColorfulMod:Rune": {
+    "NAME": "Rune",
+    "DESCRIPTION": "Deal !D! damage. NL Colored : Apply !M! Vulnerable and Weak ."
+  },
+  "ColorfulMod:LightUp": {
+    "NAME": "Light Up",
+    "DESCRIPTION": "Deal !D! damage. NL Set 1 card in hand to Red. Gain [E] if that card is already colored."
+  },
+  "ColorfulMod:DeepDarkFantasy": {
+    "NAME": "Deep Dark Fantasy",
+    "DESCRIPTION": "Gain Strength equals to your Inspiration (at most !M!), and then gain Inspiration equals to your Strength (at most !M!). NL Exhaust."
+  },
+  "ColorfulMod:Flash": {
+    "NAME": "Flash",
+    "DESCRIPTION": "Set 1 card in hand to Red . NL Triggers WCE of ALL cards in hand once. NL Exhaust."
+  },
+  "ColorfulMod:Duplicate": {
+    "NAME": "Duplicate",
+    "DESCRIPTION": "Choose 1 card to exhaust. Add !M! *Empty that has the same color as the chosen card to hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 card to exhaust. Add !M! *Empty that has the same color as the chosen card to hand."
+  },
+  "ColorfulMod:Fleeting": {
+    "NAME": "Fleeting",
+    "DESCRIPTION": "Gain !M! temporary Inspiration this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": " Retain. NL Gain !M! temporary Inspiration this turn. NL Exhaust."
+  },
+  "ColorfulMod:GoldenStrike": {
+    "NAME": "Golden Strike",
+    "DESCRIPTION": "Deal !D! damage. Deal !M! extra damage for every Rare card in your deck. NL If this is Gold , deal double damage."
+  },
+  "ColorfulMod:ChromaticBeam": {
+    "NAME": "Chromatic Beam",
+    "DESCRIPTION": " Default : Red . NL Can only be played when ALL cards in hand is colored. NL Deal !D! damage !M! times.",
+    "EXTENDED_DESCRIPTION": [
+      "Condition isn't satisfied!"
+    ]
+  },
+  "ColorfulMod:PaintSpray": {
+    "NAME": "Paint Spray",
+    "DESCRIPTION": "Deal !D! damage for every colored card in hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deal damage for ",
+      " time)",
+      " times)"
+    ]
+  },
+  "ColorfulMod:Graffiti": {
+    "NAME": "Graffiti",
+    "DESCRIPTION": "Draw !M! cards and set them to random color. NL Exhaust."
+  },
+  "ColorfulMod:GoldenWhirl": {
+    "NAME": "Golden Whirl",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. Set !M! cards in hand to Gold ."
+  },
+  "ColorfulMod:Blinding": {
+    "NAME": "Blinding",
+    "DESCRIPTION": "Gain !B! Block. NL Colored : Apply !M! Weak to ALL enemies."
+  },
+  "ColorfulMod:AcidPaint": {
+    "NAME": "Acid Paint",
+    "DESCRIPTION": "Enemy loses 3 Strength. Apply !M! Weak. NL Exhaust."
+  },
+  "ColorfulMod:Encourage": {
+    "NAME": "Encourage",
+    "DESCRIPTION": "Deal !D! damage and set ALL Attack cards in hand to Red."
+  },
+  "ColorfulMod:RubyBlade": {
+    "NAME": "Ruby Blade",
+    "DESCRIPTION": " Default : Red. Retain. NL Deal !D! damage. If this is Red when Retained , increase base damage by Evoke Effect number."
+  },
+  "ColorfulMod:GoldenLaunch": {
+    "NAME": "Golden Launch",
+    "DESCRIPTION": "Draw !M! cards and set them to Gold. NL Exhaust."
+  },
+  "ColorfulMod:Copy": {
+    "NAME": "Copy",
+    "DESCRIPTION": "Play the last card you played this turn.",
+    "UPGRADE_DESCRIPTION": " Retain. NL Play the last card you played this turn.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (the last card is: ",
+      " )",
+      " NL No cards played this turn."
+    ]
+  },
+  "ColorfulMod:StimulatePotential": {
+    "NAME": "Stimulate Potential",
+    "DESCRIPTION": " Default : Gold. NL Trigger SCE !M! times and increase this number by 1 this combat."
+  },
+  "ColorfulMod:Plasticity": {
+    "NAME": "Plasticity",
+    "DESCRIPTION": "When you play an *Empty , trigger its WCE !M! more time."
+  },
+  "ColorfulMod:Powerful": {
+    "NAME": "Powerful",
+    "DESCRIPTION": "Gain !M! temporary Strength this turn. NL Colored : Return to hand."
+  },
+  "ColorfulMod:RainbowStrike": {
+    "NAME": "Rainbow Strike",
+    "DESCRIPTION": "Deal !D! damage. Whenever this card is colored , increase damage by !M! ."
+  },
+  "ColorfulMod:Palette": {
+    "NAME": "Palette",
+    "DESCRIPTION": " Retain . Unplayable. NL The Evoke Effect number on this card multiplies by 2 .",
+    "UPGRADE_DESCRIPTION": " Retain . Unplayable. NL The Evoke Effect number on this card multiplies by 3 ."
+  },
+  "ColorfulMod:GoldTouch": {
+    "NAME": "Gold Touch",
+    "DESCRIPTION": "Add a random card that has\"*Gold\" or \"*Golden\" in its name to hand. It costs 0 this turn. NL Exhaust."
+  },
+  "ColorfulMod:GlowingGreen": {
+    "NAME": "Glowing Green",
+    "DESCRIPTION": " Default : Green. Draw !M! card(s). NL Trigger SCE twice."
+  },
+  "ColorfulMod:MagicPaint": {
+    "NAME": "Magic Paint",
+    "DESCRIPTION": "Whenever you play a colored card , deal !M! damage to a random enemy. NL Strength affects this damage."
+  },
+  "ColorfulMod:ColorX": {
+    "NAME": "Color X",
+    "DESCRIPTION": "Draw 2X-1 cards. Gain [E] for every Skill drawed. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw 2X cards. Gain [E] for every Skill drawed. NL Exhaust."
+  },
+  "ColorfulMod:ColorfulForm": {
+    "NAME": "Colorful Form",
+    "DESCRIPTION": "Whenever you play a colored card , set a random uncolored card in hand to random color. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a colored card , set a random uncolored card in hand to random color."
+  },
+  "ColorfulMod:ColorfulForm2": {
+    "NAME": "Colorful Form",
+    "DESCRIPTION": "ALL cards get default color by type. (Attack: Red ; Skill: Green ; Power: Gold ) NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "ALL cards get default color by type. (Attack: Red ; Skill: Green ; Power: Gold )"
+  }
+}

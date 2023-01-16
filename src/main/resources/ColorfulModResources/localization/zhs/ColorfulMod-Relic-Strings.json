@@ -1,0 +1,93 @@
+{
+  "ColorfulMod:MiniTutorial": {
+    "NAME": "迷你教程",
+    "FLAVOR": "Mod作者良心地放了一个遗物让你能随时查看教程！",
+    "DESCRIPTIONS": [
+      "在战斗中 #y右键点击 来查看教程！"
+    ]
+  },
+  "ColorfulMod:GoldCard": {
+    "NAME": "金卡",
+    "FLAVOR": "简单好用！",
+    "DESCRIPTIONS": [
+      "战斗开始时，将 #b1 张 #y升级 过的 #y金色白卡 加入手牌。"
+    ]
+  },
+  "ColorfulMod:ShinyGoldCard": {
+    "NAME": "闪耀金卡",
+    "FLAVOR": "发出闪亮的金色光芒。",
+    "DESCRIPTIONS": [
+      "替换 #y金卡 。 每回合开始时，将 #b1 张 #y升级 过的 #y金色白卡 加入手牌。"
+    ]
+  },
+  "ColorfulMod:GoldenEgg": {
+    "NAME": "金蛋",
+    "FLAVOR": "金闪闪的好东西！",
+    "DESCRIPTIONS": [
+      "每当你获得名称带有\" #y金色 \"或\" #y黄金 \"的牌时 , 将其 #y升级 。\n"
+    ]
+  },
+  "ColorfulMod:MoneyBag": {
+    "NAME": "小钱袋",
+    "FLAVOR": "钱生钱 , 利滚利。",
+    "DESCRIPTIONS": [
+      "每当你打出一张 #y金色 牌时 , 获得 #b7 #y金币 。"
+    ]
+  },
+  "ColorfulMod:MimeticPaint": {
+    "NAME": "拟态涂料",
+    "FLAVOR": "涂上后可以和周围的环境融为一体。",
+    "DESCRIPTIONS": [
+      "每当你打出一张有颜色的牌时 , 获得 #b1 点格挡。"
+    ]
+  },
+  "ColorfulMod:LightBulb": {
+    "NAME": "灯泡",
+    "FLAVOR": "显然作者已经没什么灵感了。",
+    "DESCRIPTIONS": [
+      "战斗开始时 , 获得 #b1 点 #y灵感 。"
+    ]
+  },
+  "ColorfulMod:BottledInspiration": {
+    "NAME": "灵感之瓶",
+    "FLAVOR": "灵感总在一瞬间。",
+    "DESCRIPTIONS": [
+      "每打出一张 #b0 费牌 , 本回合获得 #b1 点临时 #y灵感 (最多 #b3 点)。"
+    ]
+  },
+  "ColorfulMod:MagicStar": {
+    "NAME": "魔力星",
+    "FLAVOR": "一闪一闪亮晶晶~",
+    "DESCRIPTIONS": [
+      " #y金色 牌的减费主动效果额外触发一次 , 但不再触发其他手牌的颜色强化效果。"
+    ]
+  },
+  "ColorfulMod:WastepaperBasket": {
+    "NAME": "废纸篓",
+    "FLAVOR": "要用的时候还可以从里面找出来。",
+    "DESCRIPTIONS": [
+      "回合结束时 , 可以选择 #b1 张牌来 #y保留 。"
+    ]
+  },
+  "ColorfulMod:FlamePaint": {
+    "NAME": "烈焰涂料",
+    "FLAVOR": "熔岩制成的炽热涂料。",
+    "DESCRIPTIONS": [
+      " #r红色 牌的 #y强化效果 数值+ #b1。"
+    ]
+  },
+  "ColorfulMod:MiniRainbow": {
+    "NAME": "迷你彩虹",
+    "FLAVOR": "为什么没有蓝色？",
+    "DESCRIPTIONS": [
+      "若你在一回合内打出了 #r红 , #g绿 , #y金 色卡各 #b1 张 , 获得 #b2 点 #y力量 。每回合限一次。"
+    ]
+  },
+  "ColorfulMod:MarkOfChaos": {
+    "NAME": "混沌印记",
+    "FLAVOR": "你无法再辨别出事物本来的颜色。",
+    "DESCRIPTIONS": [
+      "给手牌添加颜色时，改为添加随机颜色。每回合开始时，将 #b2 张随机手牌变为随机颜色。"
+    ]
+  }
+}

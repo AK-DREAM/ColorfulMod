@@ -1,0 +1,66 @@
+{
+        "ColorfulMod:InspirationPower": {
+                "NAME": "灵感",
+                "DESCRIPTIONS": ["使红/绿色卡的效果增加 #b" , " 。"]
+        },
+        "ColorfulMod:BatchProductPower": {
+                "NAME": "批量化",
+                "DESCRIPTIONS": ["每回合开始时 , 分别将 #b" , " 张 #r红色 和 #g绿色 的 #y白卡 加入手牌。"]
+        },
+        "ColorfulMod:ShinePower": {
+                "NAME": "金光闪闪",
+                "DESCRIPTIONS": ["每回合开始时 , 将 #b" , " 张手牌变为 #y金色 。"]
+        },
+        "ColorfulMod:WellPreparedPower": {
+                "NAME": "蓄势待发",
+                "DESCRIPTIONS": ["下回合开始时 , 多抽 #b" , " 张牌并将它们变为 #r红色 。"]
+        },
+        "ColorfulMod:FireSpreadPower": {
+                "NAME": "火焰蔓延",
+                "DESCRIPTIONS": [" #r红色 卡的效果攻击所有敌人。"]
+        },
+        "ColorfulMod:EnlargePower": {
+                "NAME": "巨大化",
+                "DESCRIPTIONS": ["你每打出一张 #r红色 牌 , 获得 #b", " 点 #y力量 。"]
+        },
+        "ColorfulMod:GoldAcceleratorPower": {
+                "NAME": "黄金加速",
+                "DESCRIPTIONS": ["本回合打出前 #b", " 张 0 费牌时 , 抽 1 张牌。"]
+        },
+        "ColorfulMod:ImaginationPower": {
+                "NAME": "浮想联翩",
+                "DESCRIPTIONS": ["回合结束时 , 耗费 #b1 点能量来获得 #b", " 点 #y灵感 。"]
+        },
+        "ColorfulMod:GlitteringPower": {
+                "NAME": "流光溢彩",
+                "DESCRIPTIONS": ["当一张有颜色的卡被 #y保留 时 , 额外触发它的 #y弱激发 效果 #b", " 次。"]
+        },
+        "ColorfulMod:MetallizePaintPower": {
+                "NAME": "金属化涂料",
+                "DESCRIPTIONS": ["你在 #b", " 回合内受到的攻击伤害减半。"]
+        },
+        "ColorfulMod:LoseInspirationPower": {
+                "NAME": "转瞬即逝",
+                "DESCRIPTIONS": ["下回合开始时 , 失去 #b", " 点 #y灵感 。"]
+        },
+        "ColorfulMod:PlasticityPower": {
+                "NAME": "可塑性",
+                "DESCRIPTIONS": ["当你打出 #y白卡 时 , 额外触发 #b", " 次 #y弱激发 效果。"]
+        },
+        "ColorfulMod:MagicPaintPower": {
+                "NAME": "魔法涂料",
+                "DESCRIPTIONS": ["每当你触发 #y颜色主动效果 时 , 对随机敌人造成 #b", " + #r力量 点伤害 #b", " 次。"]
+        },
+        "ColorfulMod:MagicPaintPlusPower": {
+                "NAME": "魔法涂料+",
+                "DESCRIPTIONS": ["每当你触发 #y颜色主动效果 时 , 对随机敌人造成 #b", " + #r力量 点伤害 #b", " 次。"]
+        },
+        "ColorfulMod:ColorfulFormPower": {
+                "NAME": "缤纷形态",
+                "DESCRIPTIONS": ["你每打出 #b1 张有颜色的牌 , 将 #b1 张随机手牌变为随机颜色。"]
+        },
+        "ColorfulMod:ColorfulFormPower2": {
+                "NAME": "缤纷形态",
+                "DESCRIPTIONS": ["所有牌按类型获得 #y默认 颜色。"]
+        }
+}

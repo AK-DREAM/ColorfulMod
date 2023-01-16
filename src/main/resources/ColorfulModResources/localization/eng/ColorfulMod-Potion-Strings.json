@@ -1,0 +1,14 @@
+{
+        "ColorfulMod:RainbowPotion": {
+                "NAME": "Rainbow Potion",
+                "DESCRIPTIONS": ["Set ALL cards in your hand to random color."]
+        },
+        "ColorfulMod:InspirationPotion": {
+                "NAME": "Inspiration Potion",
+                "DESCRIPTIONS": ["Gain #b", " #yInspiration."]
+        },
+        "ColorfulMod:GoldenPotion": {
+                "NAME": "Golden Potion",
+                "DESCRIPTIONS": ["Set ALL cards in your hand to #yGold."]
+        }
+}

@@ -1,0 +1,29 @@
+{
+  "ColorfulMod:ChaosPortalEvent": {
+    "NAME": "Chaos Portal",
+    "DESCRIPTIONS": [
+      "You see a strange portal at the end of the corridor. NL As you walk into it, a #r~dizzy~ feeling suddenly comes. NL Everything's #ycolor seems to be #r~CHANGING~ .",
+      "After a while , you feel better. NL But you can't identify everything's color in this chaotic world.",
+      "You hurried back and exit the portal. NL But you still feel like you're having a #r~splitting~ #r~headache~ ."
+    ],
+    "OPTIONS": [
+      "[Move forward] #gGain #ga #yspecial #grelic.",
+      "[Exit the portal] #rLose #r3 #rHP.",
+      "[Leave]"
+    ]
+  },
+  "ColorfulMod:ShrinkEnlargeMachineEvent": {
+    "NAME": "Shrink & Enlarge Machine",
+    "DESCRIPTIONS": [
+      "You find a mysterious machine with a lot of panels and screens in it. There are two #rred #rbuttons on the dashboard, one is larger and the other is smaller.",
+      "You press the #ylarger one. The machine starts to work and you suddenly feel very ~dizzy~ . After a while, you leave the machine and find that you and the machine both become #ylarger, but your movement becomes more #rCLUMSY.",
+      "You press the #ysmaller one. The machine starts to work and you suddenly feel very ~dizzy~ . After a while, you leave the machine and find that you and the machine both become #ylarger, but your movement becomes more #gDEXTEROUS.",
+      "You think that there must be some traps linked to these buttons, and leave the machine immediately."
+    ],
+    "OPTIONS": [
+      "[Press the larger button] #gIncrease #gmax #gHP #gby #g50%. #rAdd #r2 #rClumsy #rto #ryour #rdeck.",
+      "[Press the smaller button] #rDecrease #rmax #rHP #rby #r20%. #gDraw #g1 #gadditional #gcard #gevery #gturn.",
+      "[Leave]"
+    ]
+  }
+}

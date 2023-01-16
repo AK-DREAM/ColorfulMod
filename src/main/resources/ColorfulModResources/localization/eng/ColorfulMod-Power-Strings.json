@@ -1,0 +1,66 @@
+{
+        "ColorfulMod:InspirationPower": {
+                "NAME": "Inspiration",
+                "DESCRIPTIONS": ["Increases the Evoke Effect of #rRed / #gGreen by #b" , " ."]
+        },
+        "ColorfulMod:BatchProductPower": {
+                "NAME": "Batch Product",
+                "DESCRIPTIONS": ["At start of turn , Add #b" , " #rRed and #gGreen #yEmpty to hand."]
+        },
+        "ColorfulMod:ShinePower": {
+                "NAME": "Shine",
+                "DESCRIPTIONS": ["At start of turn , set #b" , " card(s) in your hand to #yGold."]
+        },
+        "ColorfulMod:WellPreparedPower": {
+                "NAME": "Well Prepared",
+                "DESCRIPTIONS": ["At start of next turn , draw #b" , " extra card and set them to #rRed."]
+        },
+        "ColorfulMod:FireSpreadPower": {
+                "NAME": "Fire Spread",
+                "DESCRIPTIONS": [" #rRed Evoke Effect now damages ALL enemies."]
+        },
+        "ColorfulMod:EnlargePower": {
+                "NAME": "Enlarge",
+                "DESCRIPTIONS": ["Whenever you play a #yRed card , gain #b", " #yStrength."]
+        },
+        "ColorfulMod:GoldAcceleratorPower": {
+                "NAME": "Gold Accelerator",
+                "DESCRIPTIONS": ["When you play a #b0 cost card for the next #b", " time(s) this turn , draw #b1 card."]
+        },
+        "ColorfulMod:ImaginationPower": {
+                "NAME": "Imagination",
+                "DESCRIPTIONS": ["At the end of turn , cost [E] to gain #b", " #yInspiration ."]
+        },
+        "ColorfulMod:GlitteringPower": {
+                "NAME": "Glittering",
+                "DESCRIPTIONS": ["When a colored card is #yRetained , trigger its #yWCE #b", " time(s)."]
+        },
+        "ColorfulMod:MetallizePaintPower": {
+                "NAME": "Metallize Paint",
+                "DESCRIPTIONS": ["Reduce attack damage you take by half for #b", " turn(s)."]
+        },
+        "ColorfulMod:LoseInspirationPower": {
+                "NAME": "Lose Inspiration",
+                "DESCRIPTIONS": ["At start of next turn , lose #b", " #yInspiration ."]
+        },
+        "ColorfulMod:PlasticityPower": {
+                "NAME": "Plasticity",
+                "DESCRIPTIONS": ["When you play an *Empty , trigger its #yWCE #b", " more time(s)."]
+        },
+        "ColorfulMod:MagicPaintPower": {
+                "NAME": "Magic Paint",
+                "DESCRIPTIONS": ["Whenever you trigger Evoke Effect , deal #b", " damage to a random enemy #b", " time(s)."]
+        },
+        "ColorfulMod:MagicPaintPlusPower": {
+                "NAME": "Magic Paint+",
+                "DESCRIPTIONS": ["Whenever you trigger Evoke Effect , deal #b", " damage to a random enemy #b", " time(s)."]
+        },
+        "ColorfulMod:ColorfulFormPower": {
+                "NAME": "Colorful Form",
+                "DESCRIPTIONS": ["Whenever you play a colored card , set a random card in hand to random color."]
+        },
+        "ColorfulMod:ColorfulFormPower2": {
+                "NAME": "Colorful Form",
+                "DESCRIPTIONS": ["ALL cards get default color by type."]
+        }
+}

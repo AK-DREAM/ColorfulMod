@@ -1,0 +1,93 @@
+{
+  "ColorfulMod:MiniTutorial": {
+    "NAME": "Mini Tutorial",
+    "FLAVOR": "Best relic ever.",
+    "DESCRIPTIONS": [
+      "Right click it in combat to see the tutorial."
+    ]
+  },
+  "ColorfulMod:GoldCard": {
+    "NAME": "Gold Card",
+    "FLAVOR": "Easy to use!",
+    "DESCRIPTIONS": [
+      "At the start of combat , add #b1 #yupgraded #yGold #yEmpty to hand."
+    ]
+  },
+  "ColorfulMod:ShinyGoldCard": {
+    "NAME": "Shiny Gold Card",
+    "FLAVOR": "Always glowing, never extinguish.",
+    "DESCRIPTIONS": [
+      "Replace #yGold #yCard. At start of turn , add #b1 #yupgraded #yGold #yEmpty to hand.。"
+    ]
+  },
+  "ColorfulMod:GoldenEgg": {
+    "NAME": "Golden Egg",
+    "FLAVOR": "Is it laid by a golden hen?",
+    "DESCRIPTIONS": [
+      "Whenever you add a card with \" #yGold \" or \" #yGolden \" in its name, #yupgrade it."
+    ]
+  },
+  "ColorfulMod:MoneyBag": {
+    "NAME": "Money Bag",
+    "FLAVOR": "Money begets money.",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yGold card , gain #b7 #ygold."
+    ]
+  },
+  "ColorfulMod:MimeticPaint": {
+    "NAME": "MimeticPaint",
+    "FLAVOR": "Magical paint that can make things invisible.",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ycolored card , gain #b1 Block."
+    ]
+  },
+  "ColorfulMod:LightBulb": {
+    "NAME": "Light Bulb",
+    "FLAVOR": "The author has ran out of inspiration.",
+    "DESCRIPTIONS": [
+      "At the start of combat , gain #b1 #yInspiration."
+    ]
+  },
+  "ColorfulMod:BottledInspiration": {
+    "NAME": "Bottled Inspiration",
+    "FLAVOR": "It always comes suddenly.",
+    "DESCRIPTIONS": [
+      "Whenever you play a #b0 cost card , gain #b1 temporary #bInspiration this turn (at most #b3 )."
+    ]
+  },
+  "ColorfulMod:MagicStar": {
+    "NAME": "Magic Star",
+    "FLAVOR": "Twinkle twinkle little star ~ ",
+    "DESCRIPTIONS": [
+      " #yGold Evoke Effect triggers twice , but Strengthen Effect of other cards no longer triggers when you play a Gold card."
+    ]
+  },
+  "ColorfulMod:WastepaperBasket": {
+    "NAME": "Wastepaper Basket",
+    "FLAVOR": "Maybe something inside is actually valuable.",
+    "DESCRIPTIONS": [
+      "At the end of turn , #yretain up to #b1 card."
+    ]
+  },
+  "ColorfulMod:FlamePaint": {
+    "NAME": "Flame Paint",
+    "FLAVOR": "Blazing paint made of lava.",
+    "DESCRIPTIONS": [
+      "The Strengthen Effect of Red increases from #b+2 to #b+3 ."
+    ]
+  },
+  "ColorfulMod:MiniRainbow": {
+    "NAME": "Mini Rainbow",
+    "FLAVOR": "Why no blue?",
+    "DESCRIPTIONS": [
+      "Whenever you play a #rRed , #gGreen , #yGold card in a turn , gain #b2 #yStrength."
+    ]
+  },
+  "ColorfulMod:MarkOfChaos": {
+    "NAME": "Mark Of Chaos",
+    "FLAVOR": "You can't identify the color of objects anymore.",
+    "DESCRIPTIONS": [
+      "Whenever you add color to a card , add a random color. At start of turn, set #b2 random card in hand to random color."
+    ]
+  }
+}

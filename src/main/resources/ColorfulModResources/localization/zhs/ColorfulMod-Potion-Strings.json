@@ -1,0 +1,14 @@
+{
+        "ColorfulMod:RainbowPotion": {
+                "NAME": "彩虹药水",
+                "DESCRIPTIONS": ["将你的每张手牌都变为随机颜色。"]
+        },
+        "ColorfulMod:InspirationPotion": {
+                "NAME": "灵感药水",
+                "DESCRIPTIONS": ["获得 #b", " 点 #y灵感 。"]
+        },
+        "ColorfulMod:GoldenPotion": {
+                "NAME": "黄金药水",
+                "DESCRIPTIONS": ["将你的所有手牌变为 #y金色 。"]
+        }
+}
